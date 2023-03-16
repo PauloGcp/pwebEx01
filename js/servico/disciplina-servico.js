@@ -1,4 +1,4 @@
-class DisicplinaServico {
+class DisciplinaServico {
     constructor(){
         this.repositorio = new DisciplinaRepositorio()
     }

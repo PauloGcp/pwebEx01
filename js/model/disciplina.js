@@ -35,7 +35,4 @@ class Disciplina {
         this._codigo = novoCodigo;
     }
 
-    get alunos() {
-        return this.alunos
-    }
 }
